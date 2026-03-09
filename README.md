@@ -41,14 +41,7 @@ The system follows a **3-tier architecture**:
 ## 🧠 Project Summary
 
 This project demonstrates the development of a secure and scalable backend API for modern banking systems.  
-It ensures reliable authentication, transaction safety, and data consistency — serving as a foundation for fintech or digital banking applications.
-
----
-
-## 🔗 Repository Source
-
-GitHub: [https://github.com/abhi9720/BankingPortal-API](https://github.com/abhi9720/BankingPortal-API)
-
+It ensures reliable authentication, transaction safety, and data consistency — serving as a foundation for fintech or digital banking application
 ---
 
 ## 🧩 Author
