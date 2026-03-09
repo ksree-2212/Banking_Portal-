@@ -42,12 +42,6 @@ The system follows a **3-tier architecture**:
 
 This project demonstrates the development of a secure and scalable backend API for modern banking systems.  
 It ensures reliable authentication, transaction safety, and data consistency — serving as a foundation for fintech or digital banking application
----
-
-## 🧩 Author
-
-Developed by **Abhishek Tiwari (abhi9720)**  
-Academic Project Report Template Adapted by **[Your Name]**
-
+-
 ---
 
